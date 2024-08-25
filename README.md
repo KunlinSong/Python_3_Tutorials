@@ -22,9 +22,8 @@
 - 对于Windows用户，可以使用[WSL](https://learn.microsoft.com/en-us/windows/wsl/setup/environment)在Windows系统中进入Linux环境，再使用[Miniforge](https://github.com/conda-forge/miniforge)或者[MiniConda](https://docs.anaconda.com/miniconda/)管理环境。（对于已经熟悉Linux系统、愿意学习Linux系统、以及未来学习工作中会用到Linux系统的用户（尤其是需要接触生物信息学的用户），推荐这一个方案）
 - 对于其他Windows用户，可以使用[Anaconda](https://docs.anaconda.com/anaconda/install/windows/)管理环境。它对依赖GUI的大多数Windows用户来说十分友好，并且自带一个IDE（Spyder）。
 
-
 本教程假设你已经配置好了Python环境，并且可以使用jupyter notebook（或者支持.ipynb格式的IDE或编辑器，如VSCode、PyCharm等）来运行代码。
 
-学习Python并不是脑袋一热就能做到的，不是将许多视频和博客加入收藏，或是购买各种各样的推荐书籍，知识就会主动进到脑子里的。当然它也没有太难，只要付出一定的努力和时间，我想大多数人都可以从零编程基础开始学会Python这门语言。
+学习Python并不是一蹴而就的。和学习其他许多东西一样，不是说将许多视频和博客加入收藏，或是购买各种各样的推荐书籍，知识就会主动进到脑子里的。当然它也没有太难，只要付出一定的努力和时间，我想大多数人都可以从零编程基础开始学会Python这门语言。
 
 希望你能通过本教程，增加一点对Python的了解，为你的学习工作带来一些帮助。
